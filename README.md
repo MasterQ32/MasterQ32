@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**MasterQ32/MasterQ32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Also known as
+- MasterQ32
+- mq32
+- xq
+- ikskuh (german phonetic transcription of xq)
 
-Here are some ideas to get you started:
+## Project Websites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ashet.computer](//ashet.computer) ([Repository](/MasterQ32/spu-mark-ii))
+- [kristall.random-projects.net](//kristall.random-projects.net) ([Repository](/MasterQ32/kristall))
+
+## Currently working on…
+…too much stuff anyways
+
+## Loves
+- [Zig](https://ziglang.org/)
+- Graphics Programming
+- [Democoding on obscure hardware platforms](https://demozoo.org/productions/230575/)
+
