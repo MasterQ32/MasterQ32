@@ -10,6 +10,7 @@
 
 - [ashet.computer](//ashet.computer) ([Repository](/MasterQ32/spu-mark-ii))
 - [kristall.random-projects.net](//kristall.random-projects.net) ([Repository](/MasterQ32/kristall))
+- [lola.random-projects.net](https://lola.random-projects.net) ([Repository](/MasterQ32/LoLa))
 
 ## Currently working on…
 …too much stuff anyways
